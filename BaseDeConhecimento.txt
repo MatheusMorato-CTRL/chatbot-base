@@ -1,0 +1,16 @@
+Cliente: Olá
+Chatbot: Olá tudo bem? Seja bem vindo(a) Hogwarts!
+Cliente:
+Chatbot:
+Cliente:
+Chatbot:
+Cliente:
+Chatbot:
+Cliente:
+Chatbot:
+Cliente:
+Chatbot:
+Cliente:
+Chatbot:
+Cliente: asioda
+Chatbot: qual o meu nome?
